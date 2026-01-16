@@ -1,17 +1,18 @@
 🖥️ Operating System Project
+
 📌 Overview
 
 This is a menu-driven Operating System project that demonstrates core OS concepts through simulation.
 
 ⚙️ Modules
 
-Process Management – process creation, scheduling, and execution
+- Process Management – process creation, scheduling, and execution
 
-Memory Management – memory allocation and deallocation
+- Memory Management – memory allocation and deallocation
 
-I/O Operations – handling input and output devices
+- I/O Operations – handling input and output devices
 
-Other Operations – file handling and basic system functions
+- Other Operations – file handling and basic system functions
 
 🛠️ Technology
 
