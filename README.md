@@ -1,10 +1,12 @@
 🖥️ Operating System Simulator Project
+
 📌 Project Overview
 
 This project is an Operating System Simulator designed to demonstrate core OS concepts through a menu-driven interface.
 It helps students understand how an operating system manages processes, memory, input/output devices, and other essential system operations.
 
 ⚙️ Features / Modules
+
 1️⃣ Process Management
 
 This module simulates how an operating system handles processes.
